@@ -68,10 +68,10 @@ Design a scalable analytical framework to:
 ## Dashboard Preview
 
 ### Sales Performance Dashboard
-![Sales Dashboard](Dashboard_Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](Dashboard_Screenshots/Sales_report.png)
 
 ### Profitability Overview Dashboard
-![Profit Dashboard](Dashboard_Screenshots/Profit_Dashboard.png)
+![Profit Dashboard](Dashboard_Screenshots/Profit_report.png)
 
 > *Interactive dashboards enable dynamic filtering, regional comparison, and time-based financial analysis.*
 
