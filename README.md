@@ -68,10 +68,35 @@ Design a scalable analytical framework to:
 ## Dashboard Preview
 
 ### Sales Performance Dashboard
-![Sales Dashboard](Dashboard_Screenshots/Sales_report.png)
+![Sales report](Sales_report.png)
 
 ### Profitability Overview Dashboard
-![Profit Dashboard](Dashboard_Screenshots/Profit_report.png)
+![Profit report](Profit_report.png)
+
+### Combined Dashboard
+![Dashboard](Dashboard.png)
+
+### Calendar Table DAX
+![Calendar Table DAX](CalendarTable DAX.png)
+
+### Sales in USD DAX
+![Sales in USD DAX](Sales in USD DAX.png)
+
+### Power Query Cleaning
+![Power Query Cleaning](Power query cleaning.png)
+
+### Data Model
+![Data Model](Data model.png)
+
+### Country Drill Through
+![Country Drill Through](Country drill through.png)
+
+---
+
+## Project Files / Documentation
+
+- 📄 [Full Project Documentation PDF](Tailwind Poject Documentation.pdf)  
+- 📥 [Power BI File](Tailwinds Traders Sales.pbix)
 
 > *Interactive dashboards enable dynamic filtering, regional comparison, and time-based financial analysis.*
 
