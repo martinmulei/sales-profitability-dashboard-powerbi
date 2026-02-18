@@ -77,19 +77,19 @@ Design a scalable analytical framework to:
 ![Dashboard](Dashboard.png)
 
 ### Calendar Table DAX
-![Calendar Table DAX](CalendarTable DAX.png)
+![Calendar Table DAX](CalendarTable_DAX.png)
 
 ### Sales in USD DAX
-![Sales in USD DAX](Sales in USD DAX.png)
+![Sales in USD DAX](Sales_in_USD_DAX.png)
 
 ### Power Query Cleaning
-![Power Query Cleaning](Power query cleaning.png)
+![Power Query Cleaning](Power_query_cleaning.png)
 
 ### Data Model
-![Data Model](Data model.png)
+![Data Model](Data_model.png)
 
 ### Country Drill Through
-![Country Drill Through](Country drill through.png)
+![Country Drill Through](Country_drill_through.png)
 
 ---
 
