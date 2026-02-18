@@ -1,8 +1,8 @@
 # Tailwind Traders – Sales & Profitability Analytics
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Excel](https://img.shields.io/badge/Tool-Excel-green)
-![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
+![Excel](https://img.shields.io/badge/Excel-green)
+![DAX](https://img.shields.io/badge/DAX-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 **End-to-End Financial & Business Intelligence Project**
