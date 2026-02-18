@@ -1,28 +1,27 @@
 # Tailwind Traders – Sales & Profitability Analytics
 
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
-![Excel](https://img.shields.io/badge/Excel-green)
-![DAX](https://img.shields.io/badge/DAX-blue)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-green)
+![DAX](https://img.shields.io/badge/DAX-Financial%20Modeling-blue)
+![Status](https://img.shields.io/badge/Project-Production%20Ready-brightgreen)
 
-**End-to-End Financial & Business Intelligence Project**
+## Executive Financial Analytics Project
 
----
+An end-to-end financial analytics solution built to transform raw transactional sales data into structured, executive-ready business intelligence.
 
-## Executive Overview
-
-This project transforms raw transactional sales data into an executive-level analytics solution designed to monitor revenue performance, profitability, product contribution, and regional trends.
-
-Developed as a Financial Analytics project, it demonstrates full-cycle execution — from data preparation and modeling to DAX-driven insights and strategic recommendations.
+This project demonstrates the ability to bridge **financial reasoning, data modeling, and strategic decision support** using Power BI and advanced DAX.
 
 ---
 
-## Business Objective
+## Strategic Objective
 
-- Design a scalable financial reporting framework  
-- Standardize multi-currency performance analysis  
-- Enable product and regional profitability evaluation  
-- Support structured, data-driven decision making  
+Design a scalable analytical framework to:
+
+- Monitor revenue and profitability performance  
+- Standardize multi-currency financial reporting  
+- Evaluate product-level contribution  
+- Compare regional market performance  
+- Support data-driven executive decision-making  
 
 ---
 
@@ -30,65 +29,97 @@ Developed as a Financial Analytics project, it demonstrates full-cycle execution
 
 - Power BI  
 - Excel  
-- DAX  
+- DAX (Data Analysis Expressions)  
 - Power Query  
-- Snowflake Data Modeling  
+- Snowflake Data Modeling Architecture  
 
 ---
 
 ## Solution Architecture
 
 ### Data Preparation
-- Cleaned and standardized multi-source datasets  
-- Removed duplicates and corrected data types  
-- Created financial metrics (Gross Revenue, Net Revenue, Tax)  
+- Standardized multi-source datasets  
+- Removed duplicates and inconsistencies  
+- Corrected data types and validated integrity  
+- Engineered financial metrics (Gross Revenue, Net Revenue, Tax)
 
 ### Data Modeling
-- Designed snowflake schema architecture  
-- Built Calendar table for time intelligence  
-- Created Exchange Rate table for currency normalization  
-- Developed Sales in USD reporting model  
+- Designed scalable snowflake schema  
+- Built Calendar table for time intelligence (YTD, Quarterly trends)  
+- Developed Exchange Rate table for currency normalization  
+- Created Sales in USD model for unified financial reporting  
 
-### Analytics Layer
+### Analytics Layer (DAX)
 - Gross Profit (USD)  
 - Profit Margin %  
 - Profit YTD %  
 - Quarterly Profit  
 - Median Sales  
+- Time-based revenue aggregations  
 
 ### Presentation Layer
-- Interactive Sales Dashboard  
-- Profit Overview Dashboard  
-- Drill-through country analysis  
+- Sales Performance Dashboard  
+- Profitability Overview Dashboard  
+- Country-Level Drill-Through Analysis  
+- Cross-filtered KPI reporting  
+
+---
+
+## Dashboard Preview
+
+### Sales Performance Dashboard
+![Sales Dashboard](Dashboard_Screenshots/Sales_Dashboard.png)
+
+### Profitability Overview Dashboard
+![Profit Dashboard](Dashboard_Screenshots/Profit_Dashboard.png)
+
+> *Interactive dashboards enable dynamic filtering, regional comparison, and time-based financial analysis.*
 
 ---
 
 ## Key Financial Insights
 
 - **Net Revenue:** $13.89K  
-- **Profit Margin Stability:** ~62% across periods  
-- **Largest Market:** USA (~45% of median sales contribution)  
-- **Top Category:** Gardening  
+- **Profit Margin Stability:** ~62% across reporting periods  
+- **Largest Revenue Contributor:** USA (~45%)  
+- **Top Product Category:** Gardening  
 - **Highest Revenue Product:** Modular Sofa Set  
-- **Growth Opportunity Identified:** UAE  
+- **Growth Opportunity Identified:** UAE Market  
 
 ---
 
 ## Business Impact
 
-- Structured revenue and profitability monitoring  
-- Product-level contribution analysis  
-- Regional benchmarking  
-- Scalable financial reporting model  
-- Executive-ready dashboard framework  
+- Structured revenue and margin monitoring framework  
+- Enhanced product-level profitability visibility  
+- Regional benchmarking for strategic expansion  
+- Scalable reporting architecture  
+- Executive-ready financial performance dashboards  
+
+---
+
+## Challenges & Analytical Approach
+
+- Estimated cost structure (35% of gross price) to simulate margin modeling  
+- Implemented currency normalization via Exchange Data table  
+- Stabilized data inconsistencies through structured Power Query validation  
 
 ---
 
 ## Skills Demonstrated
 
-Financial Analysis • Data Modeling • DAX & Time Intelligence • KPI Development • Executive Dashboard Design • Strategic Insight Communication  
+Financial Performance Analysis  
+Data Modeling & Relationship Optimization  
+DAX & Time Intelligence  
+KPI Framework Development  
+Executive Dashboard Design  
+Business Insight Communication  
 
 ---
 
-BBA (Accounting) Student | Aspiring Financial Analyst  
-Focused on integrating finance, analytics, and business strategy.
+## Professional Positioning
+
+BBA (Accounting) Student  
+Aspiring Financial Analyst  
+
+Focused on integrating financial strategy, analytical modeling, and business intelligence to drive structured decision-making.
