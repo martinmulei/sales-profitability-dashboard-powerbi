@@ -95,10 +95,9 @@ Design a scalable analytical framework to:
 
 ## Project Files / Documentation
 
-- 📄 [Full Project Documentation PDF](Tailwind Poject Documentation.pdf)  
-- 📥 [Power BI File](Tailwinds Traders Sales.pbix)
+- 📄 [Full Project Documentation PDF](Tailwind_Poject_Documentation.pdf)  
+- 📥 [Power BI File](Tailwinds_Traders_Sales.pbix)
 
-> *Interactive dashboards enable dynamic filtering, regional comparison, and time-based financial analysis.*
 
 ---
 
