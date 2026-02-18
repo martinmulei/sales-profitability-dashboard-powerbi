@@ -1,78 +1,47 @@
 # sales-profitability-dashboard-powerbi
 
-End-to-End Financial & Business Intelligence Project | Power BI
+End-to-end financial analytics project transforming raw transactional data into an executive business intelligence solution.
 
-🔎 Overview
+Objective
 
-This project transforms raw transactional sales data into an executive-level analytics solution for Tailwind Traders, enabling visibility into revenue performance, profitability, product contribution, and regional trends.
+Design a scalable reporting framework to analyze revenue performance, profitability, product contribution, regional trends, and customer engagement.
 
-Built as a student Financial Analyst project, it demonstrates full-cycle analytical execution — from data preparation to strategic recommendations.
+Tools
 
-🛠 Tools Used
+Power BI | Excel | DAX | Power Query | Snowflake Data Modeling
 
-Power BI
+What Was Delivered
 
-Excel
-
-DAX
-
-Power Query
-
-Snowflake Data Modeling
-
-📈 Key Results
-
-Net Revenue: $13.89K
-
-Profit Margin: ~62% (consistent across regions)
-
-Top Market: USA (~45% of median sales)
-
-Highest Revenue Product: Modular Sofa Set
-
-Top Category: Gardening
-
-Identified growth opportunities in underperforming regions (UAE) and low-performing product categories.
-
-🧩 What Was Built
-
-Cleaned and validated multi-source datasets
+Cleaned and standardized multi-source datasets
 
 Designed a snowflake schema data model
 
-Created time intelligence & currency conversion tables
+Built Calendar and Exchange Rate tables
 
-Developed advanced DAX measures (Profit %, YTD %, Median Sales)
+Developed advanced DAX measures (Gross Profit, Profit Margin %, Profit YTD %, Median Sales, Quarterly Profit)
 
-Built interactive executive dashboards with drill-through functionality
+Created interactive Sales and Profit dashboards with drill-through capability
 
-🎯 Business Value
+Key Insights
 
-The solution enables:
+Net Revenue: $13.89K
 
-Revenue and profitability monitoring
+Stable Profit Margin: ~62%
 
-Regional performance comparison
+USA largest contributor (~45% of median sales)
 
-Product-level contribution analysis
+Top Category: Gardening
 
-Strategic growth recommendations
+Highest Revenue Product: Modular Sofa Set
 
-Scalable financial reporting
+UAE identified as growth opportunity
 
-💼 Skills Demonstrated
+Business Impact
 
-Financial Performance Analysis
+Enabled structured revenue monitoring, profitability evaluation, product-level analysis, and regional performance comparison to support data-driven strategic decisions.
 
-Data Modeling & Relationships
+Skills Demonstrated
 
-DAX & Time Intelligence
+Financial Analysis | Data Modeling | DAX & Time Intelligence | KPI Development | Executive Dashboard Design | Insight Communication
 
-KPI Development
-
-Executive Dashboard Design
-
-Insight-Driven Storytelling
-
-👨‍🎓 BBA (Accounting) Student | Aspiring Financial Analyst
-Focused on combining finance, analytics, and business strategy.
+BBA (Accounting) Student | Aspiring Financial Analyst focused on data-driven financial decision support.
