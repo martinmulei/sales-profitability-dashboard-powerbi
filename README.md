@@ -6,19 +6,16 @@
 ![Status](https://img.shields.io/badge/Project-Production%20Ready-brightgreen)
 
 ## Executive Financial Analytics Project
-An end-to-end financial intelligence solution designed to transform raw transactional sales data into actionable, executive-grade insights.
 
-This project demonstrates advanced financial modeling, KPI engineering, and dimensional data architecture to support:
+-An end-to-end financial intelligence solution designed to transform raw transactional sales data into actionable, executive-grade insights.
+-This project demonstrates advanced financial modeling, KPI engineering, and dimensional data architecture to support:
 
-Revenue visibility and growth monitoring
+-Revenue visibility and growth monitoring
+-Profit margin tracking across products, categories, and regions
+-Strategic decision-making through multi-dimensional dashboards
+-Scalable, reusable analytics pipelines using Power BI and DAX
 
-Profit margin tracking across products, categories, and regions
-
-Strategic decision-making through multi-dimensional dashboards
-
-Scalable, reusable analytics pipelines using Power BI and DAX
-
-Built to mirror real-world finance environments, the solution integrates data cleaning, modeling, multi-currency standardization, and interactive dashboards to provide stakeholders with clarity, accuracy, and actionable intelligence.
+-Built to mirror real-world finance environments, the solution integrates data cleaning, modeling, multi-currency standardization, and interactive dashboards to provide stakeholders with clarity, accuracy, and actionable intelligence.
 ---
 
 ## Strategic Objective
