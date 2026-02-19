@@ -75,13 +75,13 @@ Design a scalable analytical framework to:
 
 ## Dashboard Preview
 
-### Sales Performance Dashboard
+### Sales Performance Report
 ![Sales report](Sales_report.png)
 
-### Profitability Overview Dashboard
+### Profitability Overview Report
 ![Profit report](Profit_report.png)
 
-### Combined Dashboard
+### Sales and Profit Optimization Dashboard
 ![Dashboard](Dashboard.png)
 
 ### Calendar Table DAX
