@@ -1,4 +1,4 @@
-# Tailwind Traders – Sales & Profitability Analytics
+# Tailwind Traders – Sales & Profit Optimization Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-green)
@@ -7,15 +7,18 @@
 
 ## Executive Financial Analytics Project
 
-.An end-to-end financial intelligence solution designed to transform raw transactional sales data into actionable, executive-grade insights.
-This project demonstrates advanced financial modeling, KPI engineering, and dimensional data architecture to support:
-
--Revenue visibility and growth monitoring
--Profit margin tracking across products, categories, and regions
--Strategic decision-making through multi-dimensional dashboards
--Scalable, reusable analytics pipelines using Power BI and DAX
-
-Built to mirror real-world finance environments, the solution integrates data cleaning, modeling, multi-currency standardization, and interactive dashboards to provide stakeholders with clarity, accuracy, and actionable intelligence
+- End-to-end business intelligence workflow for Tailwind Traders, designed to transform raw transactional data into actionable insights  
+- Cleaned, validated, and enriched multiple datasets to ensure accuracy, consistency, and readiness for analysis  
+- Developed a snowflake-modeled data structure with user-defined tables and advanced DAX measures for robust financial modeling  
+- Built interactive dashboards highlighting key performance indicators including stock levels, median sales, loyalty points, net revenue, profit YTD %, and gross revenue trends  
+- Delivered multi-dimensional insights across products, categories, and regions to support strategic decision-making  
+- Key business insights identified:  
+  - UK achieved the highest loyalty points  
+  - UAE recorded the greatest median sales  
+  - Gardening products were the top-selling category  
+  - Modular Sofa Set generated the highest revenue  
+- Demonstrates strong capabilities in data preparation, modeling, DAX calculations, and dashboard development  
+- Provides a scalable, executive-ready tool to monitor performance, optimize profitability, and inform data-driven business decisions
 ---
 
 ## Strategic Objective
