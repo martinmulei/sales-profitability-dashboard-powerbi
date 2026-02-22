@@ -101,14 +101,6 @@ Design a scalable analytical framework to:
 
 ---
 
-## Project Files / Documentation
-
-- 📄 [Full Project Documentation PDF](Tailwind_Poject_Documentation.pdf)  
-- 📥 [Power BI File](Tailwinds_Traders_Sales.pbix)
-
-
----
-
 ## Key Financial Insights
 
 - **Net Revenue:** $13.89K  
@@ -146,6 +138,14 @@ DAX & Time Intelligence
 KPI Framework Development  
 Executive Dashboard Design  
 Business Insight Communication  
+
+---
+
+## Project Files / Documentation
+
+- 📄 [Full Project Documentation PDF](Tailwind_Poject_Documentation.pdf)  
+- 📥 [Power BI File](Tailwinds_Traders_Sales.pbix)
+
 
 ---
 
