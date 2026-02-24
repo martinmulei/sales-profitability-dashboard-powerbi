@@ -76,28 +76,29 @@ Design a scalable analytical framework to:
 ## Dashboard Preview
 
 ### Sales Performance Report
-![Sales report](Sales_report.png)
+![Sales report](Dashboard_images
+/Sales_report.png)
 
 ### Profitability Overview Report
-![Profit report](Profit_report.png)
+![Profit report](Dashboard_images/Profit_report.png)
 
 ### Sales and Profit Optimization Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard_images/Dashboard.png)
 
 ### Calendar Table DAX
-![Calendar Table DAX](CalendarTable_DAX.png)
+![Calendar Table DAX](images/CalendarTable_DAX.png)
 
 ### Sales in USD DAX
-![Sales in USD DAX](Sales_in_USD_DAX.png)
+![Sales in USD DAX](images/Sales_in_USD_DAX.png)
 
 ### Power Query Cleaning
-![Power Query Cleaning](Power_query_cleaning.png)
+![Power Query Cleaning](images/Power_query_cleaning.png)
 
 ### Data Model
-![Data Model](Data_model.png)
+![Data Model](Dashboard_images/Data_model.png)
 
 ### Country Drill Through
-![Country Drill Through](Country_drill_through.png)
+![Country Drill Through](Dashboard_images/Country_drill_through.png)
 
 ---
 
@@ -143,8 +144,8 @@ Business Insight Communication
 
 ## Project Files / Documentation
 
-- 📄 [Full Project Documentation PDF](Tailwind_Poject_Documentation.pdf)  
-- 📥 [Power BI File](Tailwinds_Traders_Sales.pbix)
+- 📄 [Full Project Documentation PDF](docs/Tailwind_Poject_Documentation.pdf)  
+- 📥 [Power BI File](Powebi/Tailwinds_Traders_Sales.pbix)
 
 
 ---
